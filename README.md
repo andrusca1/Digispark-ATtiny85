@@ -25,3 +25,5 @@ With the drivers sorted out, follow these steps:
 Most likely, you'll need to install the correct driver, especially if you're using Windows. Installing the proper driver "libusb-win32" is the final step
 
 # Simple project
+
+This is available for both, Windows and MacOS. Just plug it in!
